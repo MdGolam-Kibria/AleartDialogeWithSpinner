@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="main_menu">
+        <menu>
+            <item
+                android:id="@+id/kibria"
+                android:icon="@drawable/ic_launcher_background"
+                android:onClick="jjj"
+                android:title="kibria"></item>
+            <item
+                android:id="@+id/fjl"
+                android:title="kibria"></item>
+            <item
+                android:id="@+id/dsfj"
+                android:title="kibria"></item>
+            <item
+                android:id="@+id/zxc"
+                android:title="kibria"></item>
+            <item
+                android:id="@+id/hfgczx"
+                android:title="kibria"></item>
+            <item
+                android:id="@+id/jj"
+                android:title="kibria"></item>
+            <item
+                android:id="@+id/fff"
+                android:title="kibria"></item>
+            <item
+                android:id="@+id/fds"
+                android:title="kibria"></item>
+
+        </menu>
+    </item>
+</menu>
